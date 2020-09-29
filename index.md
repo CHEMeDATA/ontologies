@@ -1,4 +1,4 @@
-## Welcome to GitHub page of the CHEMeDATA ontology work
+## CHEMeDATA ontology
 
 #Goal 1: Provide a linked-data basis to the CHEMeDATA initiative.
 
