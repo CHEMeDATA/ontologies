@@ -7,3 +7,6 @@ Move from the NMR-only assignment format of the NMReDATA initiative (based on .s
 Goal 2: Provide a method to identify chemistry objects in archive files
 
 [work-in-progress owl file](chemedata/playground/chemedata.owl)
+```
+https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl
+```
