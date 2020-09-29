@@ -1,0 +1,1179 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.chemedata.org/chemedata"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.chemedata.org/chemedata">
+    <Prefix name="" IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27"/>
+    <Prefix name="g" IRI="http://www.chemedata.org/ontologies/2020/"/>
+    <Prefix name="gg" IRI="http://www.chemedata/jeannerat/ontologies/2020/8/playground/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_06e353ef_27cb_4e57_b2ac_b3b8fc752c41"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_07a48358_1bdf_435b_8f70_37eb51907b2a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_0a857d8d_431e_446b_bdb7_cc1f0177b83b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_11217828_ede8_4a29_b931_73d10823d34b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_139c1a1e_9bdd_4548_b023_7ba3887dae4b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1a5de169_35a1_48db_8a32_cc6fd4f99739"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1bd32934_6d76_4121_bebb_ab3dfc3de1d9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_24d79737_0fbc_4f9d_be2e_52774bea5e51"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2c36e1ed_87b8_467a_9ca2_292e84321ba4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2ff725e7_40d7_4a75_bb4c_64662fd2654a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_30c0ddaf_093a_45f2_a560_2d83c04cddd0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_42a381ed_8e80_46a5_b2d3_fce6398cd8fc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_45f043b4_87a6_4b9d_9efd_b1b4900b0aa5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4617050a_d73c_431c_9bcd_7cb311fa886b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_49b59e75_3d49_4932_b47c_733d8a804f24"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4a42f8d7_3fbc_4cb9_8562_c3b27179c152"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4bbf9ca7_f844_4899_9550_51e6d004a601"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4c37f33c_fabd_4191_8124_4e2c4e5f46c6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_53ec942a_017e_4faa_ba62_3d957a5f3848"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_542bd140_5566_4a58_aa59_eb93aaca20aa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_54f63a0f_b32e_42ba_af22_751cad142fcf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_55f35393_49e9_4c87_bfe8_d8cedab91353"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_59175562_ab54_4b8b_bc78_db95cabc6eef"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_616be34d_d649_450f_9172_3521d1836c63"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6aa2c20e_16b0_44a1_b00e_f672c43a8a97"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6d8a77c9_6d12_4135_bb97_80a321099274"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_713da3d7_5540_44fc_916c_1f2940c2e8f0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_804722c0_2a35_45c7_83ef_84fa6157bbdd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8138084f_1d8e_4c24_a5c1_e2ca838428c6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_851d0e49_a10b_4e76_8150_938dd2747685"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8872322e_15d2_4a46_a3ec_441bb218dc2d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_91b39ef2_9327_4ec2_8851_d417ea5c835d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f0b7683_ba13_4299_84e7_fb65600218d5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f367aa3_9674_43fd_88ae_7810e09f2373"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a1c55522_262d_44be_bb0a_8b204e99265e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a4098a0b_ca0b_41ee_b50b_b3344d7abd1d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a95a79f1_805d_45ef_a37f_635f89620c36"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b15ab69f_76f8_4cf8_bc9f_a9231f8b6f0d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b4eb2fee_1ba3_461b_b285_5bad47955eda"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_bff86fed_210c_455e_8e68_d947a4bb1df2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_cb7494eb_d351_4c85_919b_f36a23936b43"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d0e8803e_5126_4de1_8087_e56700625611"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d6684885_0651_4ec4_aeb1_17d4e00f4997"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_da1b103f_ba67_4db4_afab_f8c31268fb2d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e00ff362_2514_48af_968f_f948f60c0e73"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e178f5fc_a299_47c6_a26f_76a1f399563c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e314d6b9_9815_4571_b3b7_1fe4b3d9733f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ebf5ae8a_aae7_439d_a018_28b3db840773"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ee21d26d_0d38_491f_bad7_c27db7432c38"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f271d015_83c6_451a_a4c7_1ac9b042d178"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f6ee883f_4314_4318_8cdc_c7c8dd4e2bca"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f8b427cf_1cd9_4529_98da_7b93c8bdf2c1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f9c3d12f_634b_4992_a505_c9caa929a8b5"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_113740b2_c53c_4f0a_adbd_f04797f31570"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_354292b6_b154_4ea8_8833_cfa8b51e4bd7"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_3ce57f0a_7dfa_4aad_b6c9_c8f5198fa274"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_4bebbded_87e0_4cf6_a52b_0c4aef30bdf2"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_526f598e_6fde_4c33_9c00_d0fb453be05d"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_67749b8a_e176_415a_af23_00c49659bfea"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_6edd87a1_a0f1_4f48_a534_d85b39dbe340"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_8960ee4b_430e_45da_baa8_ed4fc116f6ca"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_bd000ab8_75ec_4be5_a115_c4837df2924b"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_cccaaa12_c838_4b75_aab2_76675a48be16"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_e14cc71a_4e76_4503_bdb9_1deb3760a07c"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_0daae020_af02_4c8e_a4f4_e1296ecb424a"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_27e73239_dad4_497d_85fe_1cb8bbfbab4e"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_285e5c98_ea3d_41e5_9d60_8daee36daddd"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_5a0e5f09_953a_4c72_93ff_7dad3cc6cc8b"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_f8efff81_f0ed_4142_a475_543d0ee3713d"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4a42f8d7_3fbc_4cb9_8562_c3b27179c152"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e314d6b9_9815_4571_b3b7_1fe4b3d9733f"/>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf"/>
+                <Literal>1H</Literal>
+            </DataHasValue>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3"/>
+                <Literal>1H</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_06e353ef_27cb_4e57_b2ac_b3b8fc752c41"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_07a48358_1bdf_435b_8f70_37eb51907b2a"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_0a857d8d_431e_446b_bdb7_cc1f0177b83b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_11217828_ede8_4a29_b931_73d10823d34b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_54f63a0f_b32e_42ba_af22_751cad142fcf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_139c1a1e_9bdd_4548_b023_7ba3887dae4b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1a5de169_35a1_48db_8a32_cc6fd4f99739"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_54f63a0f_b32e_42ba_af22_751cad142fcf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1bd32934_6d76_4121_bebb_ab3dfc3de1d9"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e178f5fc_a299_47c6_a26f_76a1f399563c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_24d79737_0fbc_4f9d_be2e_52774bea5e51"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2c36e1ed_87b8_467a_9ca2_292e84321ba4"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2ff725e7_40d7_4a75_bb4c_64662fd2654a"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8872322e_15d2_4a46_a3ec_441bb218dc2d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_30c0ddaf_093a_45f2_a560_2d83c04cddd0"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_45f043b4_87a6_4b9d_9efd_b1b4900b0aa5"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_42a381ed_8e80_46a5_b2d3_fce6398cd8fc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4617050a_d73c_431c_9bcd_7cb311fa886b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_49b59e75_3d49_4932_b47c_733d8a804f24"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4a42f8d7_3fbc_4cb9_8562_c3b27179c152"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4bbf9ca7_f844_4899_9550_51e6d004a601"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf"/>
+                <Literal>1H</Literal>
+            </DataHasValue>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3"/>
+                <Literal>1H</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4c37f33c_fabd_4191_8124_4e2c4e5f46c6"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_53ec942a_017e_4faa_ba62_3d957a5f3848"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_91b39ef2_9327_4ec2_8851_d417ea5c835d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_542bd140_5566_4a58_aa59_eb93aaca20aa"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_e14cc71a_4e76_4503_bdb9_1deb3760a07c"/>
+                <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a4098a0b_ca0b_41ee_b50b_b3344d7abd1d"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_54f63a0f_b32e_42ba_af22_751cad142fcf"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e178f5fc_a299_47c6_a26f_76a1f399563c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_55f35393_49e9_4c87_bfe8_d8cedab91353"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b4eb2fee_1ba3_461b_b285_5bad47955eda"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_59175562_ab54_4b8b_bc78_db95cabc6eef"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a95a79f1_805d_45ef_a37f_635f89620c36"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_616be34d_d649_450f_9172_3521d1836c63"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_45f043b4_87a6_4b9d_9efd_b1b4900b0aa5"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6aa2c20e_16b0_44a1_b00e_f672c43a8a97"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f271d015_83c6_451a_a4c7_1ac9b042d178"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6d8a77c9_6d12_4135_bb97_80a321099274"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b4eb2fee_1ba3_461b_b285_5bad47955eda"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_713da3d7_5540_44fc_916c_1f2940c2e8f0"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_45f043b4_87a6_4b9d_9efd_b1b4900b0aa5"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_804722c0_2a35_45c7_83ef_84fa6157bbdd"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8138084f_1d8e_4c24_a5c1_e2ca838428c6"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_851d0e49_a10b_4e76_8150_938dd2747685"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8872322e_15d2_4a46_a3ec_441bb218dc2d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_91b39ef2_9327_4ec2_8851_d417ea5c835d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_91b39ef2_9327_4ec2_8851_d417ea5c835d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f0b7683_ba13_4299_84e7_fb65600218d5"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f367aa3_9674_43fd_88ae_7810e09f2373"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a1c55522_262d_44be_bb0a_8b204e99265e"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a4098a0b_ca0b_41ee_b50b_b3344d7abd1d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_42a381ed_8e80_46a5_b2d3_fce6398cd8fc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a95a79f1_805d_45ef_a37f_635f89620c36"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4c37f33c_fabd_4191_8124_4e2c4e5f46c6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b15ab69f_76f8_4cf8_bc9f_a9231f8b6f0d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b4eb2fee_1ba3_461b_b285_5bad47955eda"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b15ab69f_76f8_4cf8_bc9f_a9231f8b6f0d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_bff86fed_210c_455e_8e68_d947a4bb1df2"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_cb7494eb_d351_4c85_919b_f36a23936b43"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d0e8803e_5126_4de1_8087_e56700625611"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d6684885_0651_4ec4_aeb1_17d4e00f4997"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a95a79f1_805d_45ef_a37f_635f89620c36"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_da1b103f_ba67_4db4_afab_f8c31268fb2d"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b15ab69f_76f8_4cf8_bc9f_a9231f8b6f0d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_da1b103f_ba67_4db4_afab_f8c31268fb2d"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_285e5c98_ea3d_41e5_9d60_8daee36daddd"/>
+            <Literal>1r</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e00ff362_2514_48af_968f_f948f60c0e73"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e178f5fc_a299_47c6_a26f_76a1f399563c"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e314d6b9_9815_4571_b3b7_1fe4b3d9733f"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ebf5ae8a_aae7_439d_a018_28b3db840773"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ee21d26d_0d38_491f_bad7_c27db7432c38"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f271d015_83c6_451a_a4c7_1ac9b042d178"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f271d015_83c6_451a_a4c7_1ac9b042d178"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f6ee883f_4314_4318_8cdc_c7c8dd4e2bca"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_53ec942a_017e_4faa_ba62_3d957a5f3848"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f8b427cf_1cd9_4529_98da_7b93c8bdf2c1"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_da1b103f_ba67_4db4_afab_f8c31268fb2d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f9c3d12f_634b_4992_a505_c9caa929a8b5"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf"/>
+                <Literal>13C</Literal>
+            </DataHasValue>
+            <DataHasValue>
+                <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3"/>
+                <Literal>1H</Literal>
+            </DataHasValue>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_06e353ef_27cb_4e57_b2ac_b3b8fc752c41"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_0a857d8d_431e_446b_bdb7_cc1f0177b83b"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_139c1a1e_9bdd_4548_b023_7ba3887dae4b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_851d0e49_a10b_4e76_8150_938dd2747685"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f0b7683_ba13_4299_84e7_fb65600218d5"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_542bd140_5566_4a58_aa59_eb93aaca20aa"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_bff86fed_210c_455e_8e68_d947a4bb1df2"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_113740b2_c53c_4f0a_adbd_f04797f31570"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_3ce57f0a_7dfa_4aad_b6c9_c8f5198fa274"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_113740b2_c53c_4f0a_adbd_f04797f31570"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_8960ee4b_430e_45da_baa8_ed4fc116f6ca"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_3ce57f0a_7dfa_4aad_b6c9_c8f5198fa274"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_4bebbded_87e0_4cf6_a52b_0c4aef30bdf2"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_526f598e_6fde_4c33_9c00_d0fb453be05d"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_67749b8a_e176_415a_af23_00c49659bfea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_6edd87a1_a0f1_4f48_a534_d85b39dbe340"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_8960ee4b_430e_45da_baa8_ed4fc116f6ca"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_4bebbded_87e0_4cf6_a52b_0c4aef30bdf2"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_bd000ab8_75ec_4be5_a115_c4837df2924b"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_cccaaa12_c838_4b75_aab2_76675a48be16"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4c37f33c_fabd_4191_8124_4e2c4e5f46c6"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_354292b6_b154_4ea8_8833_cfa8b51e4bd7"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_6edd87a1_a0f1_4f48_a534_d85b39dbe340"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_e14cc71a_4e76_4503_bdb9_1deb3760a07c"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_542bd140_5566_4a58_aa59_eb93aaca20aa"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_354292b6_b154_4ea8_8833_cfa8b51e4bd7"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf"/>
+            <Datatype abbreviatedIRI="xsd:positiveInteger"/>
+        </DataSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_e14cc71a_4e76_4503_bdb9_1deb3760a07c"/>
+        <Class IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a4098a0b_ca0b_41ee_b50b_b3344d7abd1d"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_0daae020_af02_4c8e_a4f4_e1296ecb424a"/>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_27e73239_dad4_497d_85fe_1cb8bbfbab4e"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_27e73239_dad4_497d_85fe_1cb8bbfbab4e"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_5a0e5f09_953a_4c72_93ff_7dad3cc6cc8b"/>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_27e73239_dad4_497d_85fe_1cb8bbfbab4e"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <FunctionalDataProperty>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf"/>
+    </FunctionalDataProperty>
+    <FunctionalDataProperty>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf"/>
+            <Datatype abbreviatedIRI="xsd:positiveInteger"/>
+        </DataSomeValuesFrom>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_0daae020_af02_4c8e_a4f4_e1296ecb424a"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_285e5c98_ea3d_41e5_9d60_8daee36daddd"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_5a0e5f09_953a_4c72_93ff_7dad3cc6cc8b"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_f8efff81_f0ed_4142_a475_543d0ee3713d"/>
+        <Datatype abbreviatedIRI="xsd:positiveInteger"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_06e353ef_27cb_4e57_b2ac_b3b8fc752c41</IRI>
+        <Literal xml:lang="en">Indirect</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_07a48358_1bdf_435b_8f70_37eb51907b2a</IRI>
+        <Literal xml:lang="en">DIAG</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_0a857d8d_431e_446b_bdb7_cc1f0177b83b</IRI>
+        <Literal xml:lang="en">Direct</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_11217828_ede8_4a29_b931_73d10823d34b</IRI>
+        <Literal xml:lang="en">MolFile2D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_139c1a1e_9bdd_4548_b023_7ba3887dae4b</IRI>
+        <Literal xml:lang="en">UV-Vis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1a5de169_35a1_48db_8a32_cc6fd4f99739</IRI>
+        <Literal xml:lang="en">MolFile3D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_1bd32934_6d76_4121_bebb_ab3dfc3de1d9</IRI>
+        <Literal xml:lang="en">ChemDrawFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_24d79737_0fbc_4f9d_be2e_52774bea5e51</IRI>
+        <Literal xml:lang="en">Impurity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2c36e1ed_87b8_467a_9ca2_292e84321ba4</IRI>
+        <Literal xml:lang="en">J-resolved</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_2ff725e7_40d7_4a75_bb4c_64662fd2654a</IRI>
+        <Literal xml:lang="en">Tautomer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_30c0ddaf_093a_45f2_a560_2d83c04cddd0</IRI>
+        <Literal xml:lang="en">ProjectionFrom3D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_42a381ed_8e80_46a5_b2d3_fce6398cd8fc</IRI>
+        <Literal xml:lang="en">ValuePartition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_45f043b4_87a6_4b9d_9efd_b1b4900b0aa5</IRI>
+        <Literal xml:lang="en">SampleOrigin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4617050a_d73c_431c_9bcd_7cb311fa886b</IRI>
+        <Literal xml:lang="en">ChemicalPropertyExpressedWithScalar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_49b59e75_3d49_4932_b47c_733d8a804f24</IRI>
+        <Literal xml:lang="en">ComputationalAnalyticalData</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4a42f8d7_3fbc_4cb9_8562_c3b27179c152</IRI>
+        <Literal xml:lang="en">COSY</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4bbf9ca7_f844_4899_9550_51e6d004a601</IRI>
+        <Literal xml:lang="en">NOESY</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_4c37f33c_fabd_4191_8124_4e2c4e5f46c6</IRI>
+        <Literal xml:lang="en">ComputationData</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_53ec942a_017e_4faa_ba62_3d957a5f3848</IRI>
+        <Literal xml:lang="en">ChemicalStructure3D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_542bd140_5566_4a58_aa59_eb93aaca20aa</IRI>
+        <Literal xml:lang="en">SolutionSample</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_54f63a0f_b32e_42ba_af22_751cad142fcf</IRI>
+        <Literal xml:lang="en">MolFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_55f35393_49e9_4c87_bfe8_d8cedab91353</IRI>
+        <Literal xml:lang="en">Bruker2Dprocs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_59175562_ab54_4b8b_bc78_db95cabc6eef</IRI>
+        <Literal xml:lang="en">Gaussian09-output-NMRshielding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_5e2f972f_3e7e_41eb_8f63_6d6cd634181b</IRI>
+        <Literal xml:lang="en">1D-NMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_616be34d_d649_450f_9172_3521d1836c63</IRI>
+        <Literal xml:lang="en">NaturalOrigin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6aa2c20e_16b0_44a1_b00e_f672c43a8a97</IRI>
+        <Literal xml:lang="en">InChI-Key</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6bc5610f_30cb_4de4_980f_eae3689d175f</IRI>
+        <Literal xml:lang="en">AnalyticalData</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6d8a77c9_6d12_4135_bb97_80a321099274</IRI>
+        <Literal xml:lang="en">Bruker2Dproc2s</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6ea85aaf_5bc1_49cd_8133_8b0a3e6fd739</IRI>
+        <Literal xml:lang="en">NMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_6fe69b23_7c9a_4d5e_a908_a9acc8b2a73c</IRI>
+        <Literal xml:lang="en">Sample</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_713da3d7_5540_44fc_916c_1f2940c2e8f0</IRI>
+        <Literal xml:lang="en">SyntheticOrigin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_804722c0_2a35_45c7_83ef_84fa6157bbdd</IRI>
+        <Literal xml:lang="en">SetOfNMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8138084f_1d8e_4c24_a5c1_e2ca838428c6</IRI>
+        <Literal xml:lang="en">Catalist</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_851d0e49_a10b_4e76_8150_938dd2747685</IRI>
+        <Literal xml:lang="en">IR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_884eea77_ad56_47ce_9c33_4bed55d68318</IRI>
+        <Literal xml:lang="en">Projection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_8872322e_15d2_4a46_a3ec_441bb218dc2d</IRI>
+        <Literal xml:lang="en">ChemicalStructure2D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_91b39ef2_9327_4ec2_8851_d417ea5c835d</IRI>
+        <Literal xml:lang="en">ChemicalStructure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_94c323cd_3a02_458e_a395_a9ee08f8fe08</IRI>
+        <Literal xml:lang="en">ChemistryFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9e856db2_9406_4443_9638_c29e278e1e1f</IRI>
+        <Literal xml:lang="en">ChemicalEntity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f0b7683_ba13_4299_84e7_fb65600218d5</IRI>
+        <Literal xml:lang="en">HR-Mass</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_9f367aa3_9674_43fd_88ae_7810e09f2373</IRI>
+        <Literal xml:lang="en">ExperimentalAnalyticalData</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a1c55522_262d_44be_bb0a_8b204e99265e</IRI>
+        <Literal xml:lang="en">3D-NMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a4098a0b_ca0b_41ee_b50b_b3344d7abd1d</IRI>
+        <Literal xml:lang="en">Solvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a891a40e_9a82_4062_86f0_39fa63a2bc75</IRI>
+        <Literal xml:lang="en">SpectralDirection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_a95a79f1_805d_45ef_a37f_635f89620c36</IRI>
+        <Literal xml:lang="en">Gaussian09-output</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ae16dacb_49a4_4ea2_949e_360f2aedf40d</IRI>
+        <Literal xml:lang="en">Cross-Section</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b15ab69f_76f8_4cf8_bc9f_a9231f8b6f0d</IRI>
+        <Literal xml:lang="en">Bruker</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b4eb2fee_1ba3_461b_b285_5bad47955eda</IRI>
+        <Literal xml:lang="en">Bruker2D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_b54201e1_ee3a_4520_95d3_3cf95db527bb</IRI>
+        <Literal xml:lang="en">DomainThing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_bff86fed_210c_455e_8e68_d947a4bb1df2</IRI>
+        <Literal xml:lang="en">SolidStateSample</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_cb7494eb_d351_4c85_919b_f36a23936b43</IRI>
+        <Literal xml:lang="en">HSQC</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d0e8803e_5126_4de1_8087_e56700625611</IRI>
+        <Literal xml:lang="en">Reactant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_d6684885_0651_4ec4_aeb1_17d4e00f4997</IRI>
+        <Literal xml:lang="en">Gaussian09-output-Jcoupling</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_da1b103f_ba67_4db4_afab_f8c31268fb2d</IRI>
+        <Literal xml:lang="en">Bruker1D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e00ff362_2514_48af_968f_f948f60c0e73</IRI>
+        <Literal xml:lang="en">Product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e178f5fc_a299_47c6_a26f_76a1f399563c</IRI>
+        <Literal xml:lang="en">ChemistryStructureFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e314d6b9_9815_4571_b3b7_1fe4b3d9733f</IRI>
+        <Literal xml:lang="en">X-Y-COSY</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_e404470e_470b_4db7_8d80_37d12fee17ae</IRI>
+        <Literal xml:lang="en">2D-NMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ebf5ae8a_aae7_439d_a018_28b3db840773</IRI>
+        <Literal xml:lang="en">SideProduct</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_ee21d26d_0d38_491f_bad7_c27db7432c38</IRI>
+        <Literal xml:lang="en">InChI-Value</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f271d015_83c6_451a_a4c7_1ac9b042d178</IRI>
+        <Literal xml:lang="en">InChI</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f6ee883f_4314_4318_8cdc_c7c8dd4e2bca</IRI>
+        <Literal xml:lang="en">Conformer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f8b427cf_1cd9_4529_98da_7b93c8bdf2c1</IRI>
+        <Literal xml:lang="en">Bruker1Dprocs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLClass_f9c3d12f_634b_4992_a505_c9caa929a8b5</IRI>
+        <Literal xml:lang="en">HMBC</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_0daae020_af02_4c8e_a4f4_e1296ecb424a</IRI>
+        <Literal xml:lang="en">hasIndirectIsotop</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_27e73239_dad4_497d_85fe_1cb8bbfbab4e</IRI>
+        <Literal xml:lang="en">hasSpinProperty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_285e5c98_ea3d_41e5_9d60_8daee36daddd</IRI>
+        <Literal xml:lang="en">fileName</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_5a0e5f09_953a_4c72_93ff_7dad3cc6cc8b</IRI>
+        <Literal xml:lang="en">hasDirectIsotope</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_8f1db576_51aa_404d_9043_6397cd4f55bf</IRI>
+        <Literal xml:lang="en">hasIndirectSpin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_ace0ba5f_132a_44af_b254_40011fc873e3</IRI>
+        <Literal xml:lang="en">hasDirectSpin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_b40f6e8a_7ce0_4924_86a7_f9c0f75c9eaf</IRI>
+        <Literal xml:lang="en">hasIndexValue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLDataProperty_f8efff81_f0ed_4142_a475_543d0ee3713d</IRI>
+        <Literal xml:lang="en">pathLevel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_101d670b_0644_4789_9473_05dafbf17e93</IRI>
+        <Literal xml:lang="en">hasAnalyticalData</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_113740b2_c53c_4f0a_adbd_f04797f31570</IRI>
+        <Literal xml:lang="en">hasAssociatedFileContent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_354292b6_b154_4ea8_8833_cfa8b51e4bd7</IRI>
+        <Literal xml:lang="en">hasIndexValue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_3ce57f0a_7dfa_4aad_b6c9_c8f5198fa274</IRI>
+        <Literal xml:lang="en">hasAssociatedFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_4bebbded_87e0_4cf6_a52b_0c4aef30bdf2</IRI>
+        <Literal xml:lang="en">hasCriterionFile</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_526f598e_6fde_4c33_9c00_d0fb453be05d</IRI>
+        <Literal xml:lang="en">hasUV-Vis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_642b8006_e689_48ba_83bb_25623ca4f00a</IRI>
+        <Literal xml:lang="en">has2D-NMR-Source</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_67749b8a_e176_415a_af23_00c49659bfea</IRI>
+        <Literal xml:lang="en">hasNMR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_6edd87a1_a0f1_4f48_a534_d85b39dbe340</IRI>
+        <Literal xml:lang="en">hasINCHI</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_80f15b45_16c8_4e9d_ae79_6255bb737950</IRI>
+        <Literal xml:lang="en">hasDirection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_8960ee4b_430e_45da_baa8_ed4fc116f6ca</IRI>
+        <Literal xml:lang="en">hasAssociatedFileSuffix</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_bd000ab8_75ec_4be5_a115_c4837df2924b</IRI>
+        <Literal xml:lang="en">hasIR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_cccaaa12_c838_4b75_aab2_76675a48be16</IRI>
+        <Literal xml:lang="en">hasHR-Mass</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27#OWLObjectProperty_e14cc71a_4e76_4503_bdb9_1deb3760a07c</IRI>
+        <Literal xml:lang="en">hasSolvent</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
