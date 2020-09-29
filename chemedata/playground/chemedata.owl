@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.chemedata.org/chemedata"
+     xml:base="https://chemedata.github.io/ontologies/chemedata/playground/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.chemedata.org/chemedata">
-    <Prefix name="" IRI="http://www.semanticweb.org/jeannerat/ontologies/2020/8/untitled-ontology-27"/>
+     ontologyIRI="https://chemedata.github.io/ontologies/chemedata/playground/">
+    <Prefix name="" IRI="http://www.chemedata.org/chemedata"/>
     <Prefix name="g" IRI="http://www.chemedata.org/ontologies/2020/"/>
     <Prefix name="gg" IRI="http://www.chemedata/jeannerat/ontologies/2020/8/playground/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
