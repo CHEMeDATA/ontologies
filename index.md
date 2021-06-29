@@ -10,4 +10,6 @@ Move from the NMR-only assignment format of the NMReDATA initiative (based on .s
 ```
 https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl
 ```
+Exported [OWLDoc](chemedata/playground/index.html) can be found in the chemedata/playground folder.
+
 
