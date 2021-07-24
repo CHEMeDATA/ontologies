@@ -3,11 +3,13 @@
 We defined six key formal concepts (objects) for the annotation of chemistry data.
 
  - 1 [***Compound***](./compound)  
- - 2  [***Sample***](./sample) include ***Compound***s
+ - 2 [***Sample***](./sample) include ***Compound***s
  - 3 [***Reaction***](./reaction) formalize the transformation of reactants  ***Compound***(s) into products ***Compound***(s)
  - 4 [***Operation***](./operation/synthsis) transforms a ***Sample*** into another ***Sample***. Synthesis, extraction, purification, etc. are ***Operation***s.
  - 5 [***Analysis***](./analysis/NMR) provides information about a ***Sample***
  - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) 
+
+The objects found in a dataset a listed in a manifest file with metadata and properties. A selection of objects and matadata/key property can be stored with the DOI of the data set using the "subject" field to make them "Findable".
   
 ### Basic objects
   * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
@@ -53,8 +55,9 @@ We defined six key formal concepts (objects) for the annotation of chemistry dat
     * characterization: 
       * No mimimal property present / red
       * Missing essential property / red
-      * image / orange
-      * (not other categories otherwise becomes ***Assignment***)
+      * image / orange-red
+      * propriatary format / orange-red
+      * (no green - not other categories otherwise becomes ***Assignment***)
   * 6 ***Assignment*** combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) 
     * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRspectra.json)](./assignment/NMR) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRdata.json)](./assignment/NMR) 
     * IR
@@ -67,8 +70,6 @@ We defined six key formal concepts (objects) for the annotation of chemistry dat
       * No assignement / orange (has list of peaks otherwise would not exists, but no assignment of peaks to part of the compound)
       * OK / green (has assignement of all reasonably assignable peaks)
       * Validation / gold (has validation)
-
-
 
 ### Goal 1: Provide a linked-data consolidation of the CHEMeDATA format
 
