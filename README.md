@@ -2,12 +2,12 @@
 
 We defined six key formal concepts (objects) for the annotation of chemistry data.
 
- * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
- * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) include ***Compound***s
- * 3 ***Reaction***   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) formalize the transformation of reactants  ***Compound***(s) into products ***Compound***(s)
- * 4 ***Operation*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationSynthesis.json)](./operation/synthsis) transforms a ***Sample*** into another ***Sample***. Synthesis, extraction, purification, etc. are ***Operation***s.
- * 5 ***Analysis*** provides information about a ***Sample***[![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRspectra.json)](./analysis/NMR) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRdata.json)](./analysis/NMR) 
- * 6 ***Assignment*** combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRspectra.json)](./assignment)
+ - 1 [***Compound***](./compound)  
+ - 2  [***Sample***](./sample) include ***Compound***s
+ - 3 [***Reaction***](./reaction) formalize the transformation of reactants  ***Compound***(s) into products ***Compound***(s)
+ - 4 [***Operation***](./operation/synthsis) transforms a ***Sample*** into another ***Sample***. Synthesis, extraction, purification, etc. are ***Operation***s.
+ - 5 [***Analysis***](./analysis/NMR) provides information about a ***Sample***
+ - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) 
   
 ### Basic objects
   * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
