@@ -3,7 +3,7 @@
 Key formal concepts for annotation of chemistry data
 
 * Basic objects
-  * 1 ***Compound*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
+  * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
     * 2D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound2D.json)](./compound)  
     * 3D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound3D.json)](./compound)  
   * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) Different types of samples with different letters
@@ -15,10 +15,13 @@ Key formal concepts for annotation of chemistry data
     * *etc.*
 * Complex objects (have parts that are basic or complex objects)
   * 3 ***Reaction*** 
-  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction.json)](./reaction) 
-  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) describes the transformation of reactants ***Compound***(s) into products ***Compound***(s)
+  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) formalize the transformation of reactants 
+    * Specify the cathegory of the reaction?  [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) 
+
+ ***Compound***(s) into products ***Compound***(s)
   * 4 ***Operation*** transforms a ***Sample*** into another ***Sample***
-    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) 
+    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) Describes the actions aiming at  realizing a synthesis
+      * Specify the cathegory of the reaction (similar to [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) ?
     * Separation (HPLC, etc.)
     * Purification (Recristallisation, etc.)
     * Plant extraction
