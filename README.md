@@ -9,8 +9,8 @@ Key formal concepts for annotation of chemistry data
   * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) Different types of samples with different letters
     * (s) Solution sample : Simple solution with a single pure solvent
     * (m) Solution sample with mixture of solvents: Mixture of solvents
-    * (w) Water solution : for water solutions with buffer, salt, etc.
-    * (c) Cristalline solid sample
+    * (w) Water solution : for water solution with buffer, salt, etc.
+    * (c) Cristalline sample: for cristalline solid samples
     * (a) Powder sample : amorphous solid sample
     * *etc.*
 * Complex (include basic concepts)
