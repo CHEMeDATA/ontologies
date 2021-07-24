@@ -20,11 +20,10 @@ We defined 6 key formal concepts (objects) for annotation of chemistry data.
     * Specify the cathegory of the reaction? [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) 
 
   * 4 ***Operation*** transforms a ***Sample*** into another ***Sample***
-    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) Describes the actions aiming at  realizing a synthesis
-      * Specify the cathegory of the reaction (similar to [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) ?)
-    * Separation (HPLC, etc.)
-    * Purification (Recristallisation, etc.)
-    * Plant extraction
+    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationSynthesis.json)](./operation/synthsis) Describes the actions aiming at  realizing a reaction. Should be associated with a ***Reaction***.
+    * Chromoatography (HPLC, etc.)
+    * *Purification?* (Recristallisation, etc.)
+    * *Plant extraction?*
     * *etc.* to be worked on!
   * 5 ***Analysis*** provides information about a ***Sample***
     * Spectroscopy
@@ -34,7 +33,7 @@ We defined 6 key formal concepts (objects) for annotation of chemistry data.
     * Non-spectroscopy
       * Melting point
       * *etc.*
-  * 6 ***Assignment*** combine ***Compound***(s) with ***Analysis***
+  * 6 ***Assignment*** combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) 
      * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRspectra.json)](./assignment/NMR) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRdata.json)](./assignment/NMR) 
     * IR
     * Ms ? categories...
