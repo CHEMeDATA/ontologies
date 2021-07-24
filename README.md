@@ -1,6 +1,6 @@
 ## CHEMeDATA six key formal concepts
 
-We defined six key formal concepts (objects) for the annotation of chemistry data.
+CHEMeDATA proposes to define six key formal concepts (objects) for the annotation of chemistry data.
 
  - 1 [***Compound***](./compound)  
  - 2 [***Sample***](./sample) include ***Compound***s
@@ -9,7 +9,7 @@ We defined six key formal concepts (objects) for the annotation of chemistry dat
  - 5 [***Analysis***](./analysis/NMR) provides information about a ***Sample***
  - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analysis*** with one (or more) ***Compound***(s) 
 
-The objects found in a dataset a listed in a manifest file with metadata and properties. A selection of objects and matadata/key property can be stored with the DOI of the data set using the "subject" field to make them "Findable".
+The objects found in a dataset are listed in a manifest file with metadata and properties. A selection of objects and key metadata and properties can be registered with the DOI of the data set using the datacite "subject" field to make them "Findable".
   
 ### Basic objects
   * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
