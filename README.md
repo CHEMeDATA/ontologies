@@ -13,7 +13,7 @@ Key formal concepts for annotation of chemistry data
     * (c) Cristalline sample: for cristalline solid samples
     * (a) Powder sample : amorphous solid sample
     * *etc.*
-* Complex objects (have parts that are basic or complext objects)
+* Complex objects (have parts that are basic or complex objects)
   * 3 ***Reaction*** 
   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction.json)](./reaction) 
   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) describes the transformation of reactants ***Compound***(s) into products ***Compound***(s)
