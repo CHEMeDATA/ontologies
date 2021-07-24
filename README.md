@@ -4,21 +4,32 @@ Key formal concepts for annotation of chemistry data
 
 * Basic
   * 1 ***Compound*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
-    * 2D
-    * 3D
-  * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) 
+    * 2D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound2D.json)](./compound)  
+    * 3D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound3D.json)](./compound)  
+  * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) Different types of samples with different letters
+    * (s) Solution sample : Simple solution with a single pure solvent
+    * (m) Solution sample with mixture of solvents: Mixture of solvents
+    * (w) Water solution : for water solutions with buffer, salt, etc.
+    * (c) Cristalline solid sample
+    * (a) Powder sample : amorphous solid sample
+    * *etc.*
 * Complex (include basic concepts)
-  * 3 ***Reaction*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction.json)](./reaction) describes the transformation reactants *Compound*(s) into products *Compound*(s)
+  * 3 ***Reaction*** 
+  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction.json)](./reaction) 
+  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) describes the transformation of reactants *Compound*(s) into products *Compound*(s)
   * 4 ***Operation*** transforms a *Sample* into another *Sample*
-    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction)
-    * Separation
+    * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) 
+    * Separation (HPLC, etc.)
+    * Purification (Recristallisation, etc.)
     * Plant extraction
-  * 5 ***Analysis*** (of a *Sample*)
+  * 5 ***Analysis*** provides information about a Sample
     * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRspectra.json)](./analysis/NMR)  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRdata.json)](./analysis/NMR) 
     * IR
     * Ms...
-  * ***Assignment*** combine *Compound*(s) with *Analysis*
-  
+  * 6 ***Assignment*** combine *Compound*(s) with *Analysis*
+     * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRspectra.json)](./assignment/NMR)  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRdata.json)](./assignment/NMR) 
+    * IR
+    * Ms...
 *Compound*s are part of a *Sample*s.
 *Analysis*s study *Sample*s and say something about *Compound*s.
 
