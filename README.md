@@ -1,11 +1,12 @@
 ## CHEMeDATA ontology
 
-Key formal concepts for annotation of chemistry data
+We defined 6 key formal concepts (objects) for annotation of chemistry data.
 
-* Basic objects
+### Basic objects
   * 1 ***Compound*** [![Compound](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json)](./compound)  
     * 2D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound2D.json)](./compound)  
     * 3D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound3D.json)](./compound)  
+    * Formula (XnYm)
   * 2 ***Sample*** [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json)](./sample) Different types of samples with different letters
     * (s) Solution sample : Simple solution with a single pure solvent
     * (m) Solution sample in a mixture of solvents: Mixture of solvents
@@ -13,18 +14,18 @@ Key formal concepts for annotation of chemistry data
     * (c) Cristalline sample: for cristalline solid samples
     * (a) Powder sample : amorphous solid sample
     * *etc.*
-* Complex objects (have parts that are basic or complex objects)
+### Complex objects (have parts that are basic or complex objects)
   * 3 ***Reaction*** 
-  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) formalize the transformation of reactants 
-    * Specify the cathegory of the reaction?  [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) 
+  [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) formalize the transformation of reactants  ***Compound***(s) into products ***Compound***(s)
+    * Specify the cathegory of the reaction? [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) 
 
- ***Compound***(s) into products ***Compound***(s)
   * 4 ***Operation*** transforms a ***Sample*** into another ***Sample***
     * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) Describes the actions aiming at  realizing a synthesis
-      * Specify the cathegory of the reaction (similar to [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) ?
+      * Specify the cathegory of the reaction (similar to [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2Ox.json)](./reaction) ?)
     * Separation (HPLC, etc.)
     * Purification (Recristallisation, etc.)
     * Plant extraction
+    * *etc.* to be worked on!
   * 5 ***Analysis*** provides information about a ***Sample***
     * Spectroscopy
       * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRspectra.json)](./analysis/NMR) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/analysisNMRdata.json)](./analysis/NMR) 
@@ -32,10 +33,12 @@ Key formal concepts for annotation of chemistry data
       * Ms...
     * Non-spectroscopy
       * Melting point
+      * *etc.*
   * 6 ***Assignment*** combine ***Compound***(s) with ***Analysis***
      * NMR [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRspectra.json)](./assignment/NMR) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/assignmentNMRdata.json)](./assignment/NMR) 
     * IR
-    * Ms...
+    * Ms ? categories...
+    * *etc.*
 
 
 ***Compound***s are part of a ***Sample***s.
