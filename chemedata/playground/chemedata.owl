@@ -6,9 +6,10 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl">
-    <Prefix name="" IRI="http://www.chemedata.org/chemedata"/>
+    <Prefix name="" IRI="https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl"/>
     <Prefix name="g" IRI="http://www.chemedata.org/ontologies/2020/"/>
     <Prefix name="gg" IRI="http://www.chemedata/jeannerat/ontologies/2020/8/playground/"/>
+    <Prefix name="ggg" IRI="https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
