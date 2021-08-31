@@ -56,7 +56,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * OK / green (has an Rinchi, inchi of reactant...)
   * ***Process*** transforms a ***Sample*** into another ***Sample***
     * categories
-      * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/operationReaction.json)](./operation/reaction) 
+      * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/processReaction.json)](./operation/reaction) 
       * Chromoatography (HPLC, etc.)
       * *Purification?* (Recristallisation, etc.)
       * *Plant extraction?*
