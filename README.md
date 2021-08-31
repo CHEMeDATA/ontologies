@@ -50,6 +50,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * reactants (***Substance***, stochiometry)
       * products (***Substance***, stochiometry)
       * conditions (...)
+      * Rinchi
     * Color code: 
       * No equation or image/ red
       * Ambiguous / orange (not clear which part of the file is relevant - requires curation)
