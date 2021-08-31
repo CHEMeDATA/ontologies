@@ -36,7 +36,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * (a) Powder sample : amorphous solid sample
       * *etc.*
     * properties
-      * composition (Substances, quantity)
+      * composition (***Substance***s, quantity)
       * *etc.*
     * color code: 
       * No description / red
