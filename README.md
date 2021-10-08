@@ -9,9 +9,11 @@ CHEMeDATA proposes to define six key formal concepts (objects) for the annotatio
  - 5 [***Analytical data***](./analysis/NMR) provides information about a ***Sample***
  - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analytical data*** with properties of the other concepts.
 
+![Comments and suggestions are welcome!](https://github.com/CHEMeDATA/ontologies/issues/new)
+
 ![sixObjects](media/sixObjects.png)
 
-![Comments and suggestions are welcome!](https://github.com/CHEMeDATA/ontologies/issues/new)
+
 
 The objects found in a dataset are listed in a manifest file with metadata and properties. A selection of objects and key metadata and properties can be registered with the DOI of the data set using the datacite "subject" field to make them "Findable".
   
