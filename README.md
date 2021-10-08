@@ -2,6 +2,8 @@
  
 CHEMeDATA proposes to define six key formal concepts (objects) for the annotation of chemistry data.
 
+*(The html links are not active yet... see the bottom part of this page for more details.)*
+
  - 1 [***Substance***](./substance)   
  - 2 [***Chem. Equation***](./equation) formalize the transformation of reactants  ***Substance***(s) into products ***Substance***(s) 
  - 3 [***Sample***](./sample) include ***Substance***s
@@ -9,11 +11,11 @@ CHEMeDATA proposes to define six key formal concepts (objects) for the annotatio
  - 5 [***Analytical data***](./analysis/NMR) provides information about a ***Sample***
  - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analytical data*** with properties of the other concepts.
 
-![Comments and suggestions are welcome!](https://github.com/CHEMeDATA/ontologies/issues/new)
+[Comments and suggestions are welcome!](https://github.com/CHEMeDATA/ontologies/issues/new)
 
 ![sixObjects](media/sixObjects.png)
 
-
+*The following is a draft*
 
 The objects found in a dataset are listed in a manifest file with metadata and properties. A selection of objects and key metadata and properties can be registered with the DOI of the data set using the datacite "subject" field to make them "Findable".
   
@@ -45,7 +47,8 @@ The objects found in a dataset are listed in a manifest file with metadata and p
     * color code: 
       * No description / red
       * OK / green
-### Complex objects (have properties that are basic or complex objects)
+
+### Complex objects (have parts that are basic or complex objects)
   * ***Chem Equation*** 
   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2.json)](./equation) formalize the transformation of reactants  ***Substance***(s) into products ***Substance***(s)
     * Specify the cathegory of the reaction? [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2Ox.json)](./equation) 
