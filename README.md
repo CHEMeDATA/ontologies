@@ -24,7 +24,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
     * properties
       * atom list
       * connection table (+ bond types?)
-      * INCHI
+      * InChi
       * 2D [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/substance2D.json)](./substance)  
       * 3D structure(s) (may have multiple conformations/mesomers) [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/substance3D.json)](./substance)
       * *etc.*
@@ -66,6 +66,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/processReaction.json)](./process/reaction) 
       * Chromoatography (HPLC, etc.)
       * *Purification?* (Recristallisation, etc.)
+      * *Reaction* ([RInChi](http://www-rinchi.ch.cam.ac.uk/)), 
       * *Plant extraction?*
       * *etc.* to be worked on!
     * Properties
