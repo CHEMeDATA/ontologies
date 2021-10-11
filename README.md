@@ -42,6 +42,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * *etc.*
     * properties
       * composition (***Substance***s, quantity)
+      * [MInChI](https://github.com/IUPAC/MInChI)
       * *etc.*
     * color code: 
       * No description / red
