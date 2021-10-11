@@ -19,7 +19,6 @@ CHEMeDATA proposes to define six key formal concepts (objects) for the annotatio
 
 The objects found in a dataset are listed in a manifest file with metadata and properties. A selection of objects and key metadata and properties can be registered with the DOI of the data set using the datacite "subject" field to make them "Findable".
   
-### Basic objects
   * ***Substance*** [![Substance](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/substance.json)](./substance)  
     * Formula (XnYm)
     * properties
@@ -48,7 +47,6 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * No description / red
       * OK / green
 
-### Complex objects (have parts that are basic or complex objects)
   * ***Chem Equation*** 
   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2.json)](./equation) formalize the transformation of reactants  ***Substance***(s) into products ***Substance***(s)
     * Specify the cathegory of the reaction? [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2Ox.json)](./equation) 
