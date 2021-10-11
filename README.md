@@ -7,7 +7,7 @@ CHEMeDATA proposes to define six key formal concepts (objects) for the annotatio
  - 1 [***Substance***](./substance)   
  - 2 [***Chem. Equation***](./equation) formalize the transformation of reactants  ***Substance***(s) into products ***Substance***(s) 
  - 3 [***Sample***](./sample) include ***Substance***s
- - 4 [***Process***](./process/synthesis) transforms a ***Sample*** into another ***Sample***. Reaction, extraction, purification, *etc.* are ***Process***s.
+ - 4 [***Process***](./process/synthesis) transforms a ***Sample*** into another ***Sample***. Reaction, extraction, purification, *etc.* are ***Process***'s.
  - 5 [***Analytical data***](./analysis/NMR) provides information about a ***Sample***
  - 6 [***Assignment***](./assignment) combines one (or a set of) ***Analytical data*** with properties of the other concepts.
 
