@@ -48,7 +48,7 @@ The objects found in a dataset are listed in a manifest file with metadata and p
       * No description / red
       * OK / green
     * loosely related: 
-      * [sampling nature](https://samplingnature.org/), [iSample](https://isamplesorg.github.io/home/)
+      * [sampling nature](https://samplingnature.org/), [iSample](https://isamplesorg.github.io/home/), [IGSN](https://www.igsn.org/igsn-2040/)
   * ***Chem Equation*** 
   [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2.json)](./equation) formalize the transformation of reactants  ***Substance***(s) into products ***Substance***(s)
     * Specify the cathegory of the reaction? [![Oxidation](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/equation2Ox.json)](./equation) 
