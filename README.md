@@ -118,4 +118,10 @@ https://chemedata.github.io/ontologies/chemedata/playground/chemedata.owl
 ```
 Exported [OWLDoc](chemedata/playground/index.html) can be found in the chemedata/playground folder.
 
+Diverging implementation 
+
+https://webprotege.stanford.edu/#projects/2a6dbe88-eb6e-4a36-a617-629279bd3166/
+
+Please contact us (post issue) if you are interested.
+
 
